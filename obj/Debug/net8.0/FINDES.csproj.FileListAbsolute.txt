@@ -463,3 +463,4 @@ C:\Users\meyri\source\repos\FINDES\FINDES\obj\Debug\net8.0\refint\FINDES.dll
 C:\Users\meyri\source\repos\FINDES\FINDES\obj\Debug\net8.0\FINDES.pdb
 C:\Users\meyri\source\repos\FINDES\FINDES\obj\Debug\net8.0\FINDES.genruntimeconfig.cache
 C:\Users\meyri\source\repos\FINDES\FINDES\obj\Debug\net8.0\ref\FINDES.dll
+C:\Users\meyri\source\repos\FINDES\FINDES\obj\Debug\net8.0\FINDES.sourcelink.json
